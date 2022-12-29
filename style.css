@@ -10,7 +10,7 @@
 /* Variables */
 /* mixin */
 /* :: Import Fonts */
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
+@import url(fonts/BondoluoPeek.ttf);
 /* :: Import All CSS */
 @import url(css/bootstrap.min.css);
 @import url(css/animate.css);
