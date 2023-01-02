@@ -15,9 +15,6 @@
   font-family: Bondoluo Peek;
   src: url("fonts/bondoluopeek1-webfont.woff");
 }
-body {
-  font-family: Bondoluo Peek;
-}
 
 @import url("https://fonts.googleapis.com/cssfamily=Roboto:100,300,400,500,700");
 
@@ -63,6 +60,7 @@ p2 {
     font-weight: 100;
     margin-top: -15px;
     text-align: center;
+    font-family: Bondoluo Peek;
 }
 a {
     -webkit-transition-duration: 500ms;
@@ -71,6 +69,7 @@ a {
     outline: none;
     font-size: 14px;
     font-weight: 700;
+	font-family: Bondoluo Peek;
 
 }
 char{
@@ -96,6 +95,7 @@ a1 {
     padding-top: 0px;
     list-style-position: inside;
     line-height: -115px;
+	font-family: Bondoluo Peek;
 	}
 a2 {
    -webkit-transition-duration: 500ms;
@@ -104,6 +104,7 @@ a2 {
     outline: none;
     font-size: 20px;
     font-weight: 700;
+	font-family: Bondoluo Peek;
 }
   
 a:hover, a:focus {
@@ -112,7 +113,10 @@ a:hover, a:focus {
     text-decoration: none;
     outline: none;
     font-size: 12px;
-    font-weight: 400; }
+    font-weight: 400; 
+	font-family: Bondoluo Peek;
+}
+
 
 
 #preloader {
