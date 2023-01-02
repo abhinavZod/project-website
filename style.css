@@ -14,7 +14,7 @@
 
 
 @import url("https://fonts.googleapis.com/cssfamily=Roboto:100,300,400,500,700");
-@import url(fonts/BondoluoPeek.ttf);
+
 @import url("fonts/bondoluopeek1-demo.html");
 @import url("fonts/bondoluopeek1-webfont.woff");
 @import url("fonts/bondoluopeek1-webfont.woff2");
@@ -37,8 +37,6 @@
     padding-bottom: 0px;
 }
 
-body {
-  font-family: Bondoluo Peek, "Roboto", sans-serif; }
 
 h1,
 h2,
