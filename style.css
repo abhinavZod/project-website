@@ -20,10 +20,7 @@ body {
 }
 
 @import url("https://fonts.googleapis.com/cssfamily=Roboto:100,300,400,500,700");
-@import url("fonts/BondoluoPeek.ttf");
-@import url("fonts/bondoluopeek1-demo.html");
-@import url("fonts/bondoluopeek1-webfont.woff");
-@import url("fonts/bondoluopeek1-webfont.woff2");
+
 /* :: Import All CSS */
 @import url(css/bootstrap.min.css);
 @import url(css/animate.css);
@@ -41,9 +38,6 @@ body {
     height: auto;
     padding-bottom: 0px;
 }
-
-body {
-  font-family:"Bondoluo Peek", "Roboto", sans-serif; }
 
 h1,
 h2,
@@ -80,7 +74,7 @@ a {
 
 }
 char{
-    font-family: Cambria, "Bondoluo Peek", "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-family: Cambria, Bondoluo Peek, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-size: 10px;
 }
   a:hover, a:focus {
